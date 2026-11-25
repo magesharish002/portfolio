@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 4068 >>
+stream
+BT /F2 26 Tf 1 0 0 1 56 792.00 Tm (M. HARISH) Tj ET
+0.18 0.42 0.40 rg
+BT /F1 11 Tf 1 0 0 1 56 776.00 Tm (Frontend Developer  ·  Embedded Systems Enthusiast) Tj ET
+0 0 0 rg
+BT /F1 8.5 Tf 1 0 0 1 56 764.00 Tm (magesharish002@gmail.com   ·   github.com/magesharish002   ·   linkedin.com/in/your-username   ·   India) Tj ET
+0.75 0.78 0.85 RG 0.7 w 56 750.00 m 539.28 750.00 l S
+0.12 0.45 0.42 rg
+BT /F2 8.5 Tf 1 0 0 1 56 726.00 Tm (PROFILE) Tj ET
+0 0 0 rg
+0.80 0.83 0.88 RG 0.7 w 56 714.00 m 539.28 714.00 l S
+BT /F1 9.5 Tf 1 0 0 1 56 702.00 Tm (Final-year Computer Science student building responsive, motion-led interfaces with React, GSAP) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 56 689.50 Tm (and Vite. Also works with microcontrollers, sensors and serial protocols, and enjoys projects where) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 56 677.00 Tm (software meets the physical world. Looking for internships or entry-level frontend roles.) Tj ET
+0.12 0.45 0.42 rg
+BT /F2 8.5 Tf 1 0 0 1 56 658.50 Tm (EDUCATION) Tj ET
+0 0 0 rg
+0.80 0.83 0.88 RG 0.7 w 56 646.50 m 539.28 646.50 l S
+BT /F2 10.5 Tf 1 0 0 1 56 634.50 Tm (B.E. Computer Science & Engineering) Tj ET
+BT /F1 9 Tf 1 0 0 1 56 622.50 Tm (Your College Name  ·  2022 - 2026 \(expected\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 56 610.50 Tm (Coursework: data structures, operating systems, computer networks, embedded systems.) Tj ET
+0.12 0.45 0.42 rg
+BT /F2 8.5 Tf 1 0 0 1 56 592.50 Tm (TECHNICAL SKILLS) Tj ET
+0 0 0 rg
+0.80 0.83 0.88 RG 0.7 w 56 580.50 m 539.28 580.50 l S
+BT /F2 9 Tf 1 0 0 1 56 568.50 Tm (Frontend) Tj ET
+BT /F1 9 Tf 1 0 0 1 136 568.50 Tm (React, JavaScript \(ES6+\), HTML, CSS, GSAP, Vite, responsive UI) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 555.50 Tm (Languages) Tj ET
+BT /F1 9 Tf 1 0 0 1 136 555.50 Tm (JavaScript, Python, Java, C, Embedded C) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 542.50 Tm (Embedded) Tj ET
+BT /F1 9 Tf 1 0 0 1 136 542.50 Tm (ESP32, Arduino, STM32, 8051, Raspberry Pi, UART, I2C, SPI, MQTT) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 529.50 Tm (AI / Data) Tj ET
+BT /F1 9 Tf 1 0 0 1 136 529.50 Tm (Pandas, NumPy, scikit-learn, NLP basics, Matplotlib) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 516.50 Tm (Tools) Tj ET
+BT /F1 9 Tf 1 0 0 1 136 516.50 Tm (Git, GitHub, VS Code, Figma, PlatformIO) Tj ET
+0.12 0.45 0.42 rg
+BT /F2 8.5 Tf 1 0 0 1 56 497.50 Tm (SELECTED PROJECTS) Tj ET
+0 0 0 rg
+0.80 0.83 0.88 RG 0.7 w 56 485.50 m 539.28 485.50 l S
+BT /F2 9 Tf 1 0 0 1 56 473.50 Tm (This Portfolio) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 473.50 Tm (React + GSAP portfolio with scroll choreography and an embedded lab.) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 460.50 Tm (Doubt-Solving Chatbot) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 460.50 Tm (NLP assistant with a Python backend and a clean chat interface.) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 447.50 Tm (Smart Room Monitor) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 447.50 Tm (ESP32 sensor node publishing temperature, humidity and motion over MQTT.) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 434.50 Tm (RFID Attendance Desk) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 434.50 Tm (Arduino tap-to-mark attendance unit with LCD feedback and serial logging.) Tj ET
+0.12 0.45 0.42 rg
+BT /F2 8.5 Tf 1 0 0 1 56 415.50 Tm (INTERNSHIPS) Tj ET
+0 0 0 rg
+0.80 0.83 0.88 RG 0.7 w 56 403.50 m 539.28 403.50 l S
+BT /F2 9 Tf 1 0 0 1 56 391.50 Tm (Full Stack Development) Tj ET
+BT /F1 9 Tf 1 0 0 1 507.28 391.50 Tm (2025) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 391.50 Tm (Built and connected small front-end and back-end features.) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 378.50 Tm (Python for Data Science) Tj ET
+BT /F1 9 Tf 1 0 0 1 507.28 378.50 Tm (2025) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 378.50 Tm (Data cleaning, analysis and visualisation with Pandas and Matplotlib.) Tj ET
+BT /F2 9 Tf 1 0 0 1 56 365.50 Tm (Web Designing) Tj ET
+BT /F1 9 Tf 1 0 0 1 507.28 365.50 Tm (2024) Tj ET
+BT /F1 9 Tf 1 0 0 1 188 365.50 Tm (Responsive page layouts with a focus on type, spacing and mobile behaviour.) Tj ET
+0.75 0.78 0.85 RG 0.7 w 56 344.50 m 539.28 344.50 l S
+0.45 0.48 0.55 rg
+BT /F1 8 Tf 1 0 0 1 56 330.50 Tm (Placeholder résumé  replace public/resume.pdf with your real PDF \(same filename keeps links working\).) Tj ET
+0 0 0 rg
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000354 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4576
+%%EOF
