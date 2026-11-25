@@ -17,7 +17,7 @@ npm run build    # production build -> dist/
 npm run preview  # preview the production build
 ```
 
-Node 18+ recommended.
+Node 20.19+ or 22.12+ required (Vite 8). Node 22 is what CI uses.
 
 ---
 
