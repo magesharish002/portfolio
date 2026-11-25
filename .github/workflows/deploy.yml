@@ -25,7 +25,9 @@ jobs:
           node-version: 22
           cache: npm
 
-      - run: npm ci
+      # npm install (not ci) because the Windows-generated lockfile omits
+      # optional platform binaries that npm ci on Linux expects.
+      - run: npm install --no-audit --no-fund
       - run: npm run build
 
       - uses: actions/configure-pages@v5
